@@ -1,0 +1,30 @@
+ /* Styles de base */
+body {
+  font-family: 'Bitter', serif;
+  background-color: #eef;
+  color: #259;
+}
+nav img {
+  width: 100%;
+}
+header {
+	
+	padding: 30px;
+
+}
+header a {
+	float:left;
+}
+header h1 {
+	text-align: center;
+}
+
+/* Styles pour les tablettes */
+@media (min-width: 768px) {
+
+}
+
+/* Styles pour les écrans moyens et grands */
+@media (min-width: 992px) {
+
+}
